@@ -1,0 +1,1 @@
+%WER 14.29 [ 141722 / 991506, 13285 ins, 57895 del, 70542 sub ] exp/nnet3_chain/tdnn_250/decode_test/wer_8_0.0
