@@ -9,9 +9,9 @@ Includes:
     * Recipe created with [ipa2kaldi](https://github.com/rhasspy/ipa2kaldi)
     * Word error rate: 14.29%
     * Trained on:
+        * [MLS](http://openslr.org/94/) (1,579 hours)
         * [CGN](http://lands.let.ru.nl/cgn/ehome.htm) (314 hours)
         * [Common Voice](https://commonvoice.mozilla.org) (63 hours)
-        * [MLS](http://openslr.org/94/) (? hours)
         * [Voxforge](http://voxforge.org/nl) (10 hours)
 * An [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) pronunciation lexicon
     * See `base_dictionary.txt.gz`
